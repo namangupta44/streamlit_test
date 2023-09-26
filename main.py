@@ -5,6 +5,6 @@ st.header("ehthggh hngh")
 st.subheader("----nbkwbf hflhef  ef")
 st.text("uiohv ekehrwhf m cbkhwk jwf")
 st.markdown("[Google](https://www.google.com)")
-st.markdown("---")
+st.markdown("___")
 
 st.markdown("[Google](https://www.google.com)")
